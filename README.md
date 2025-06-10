@@ -1,5 +1,8 @@
 # Smart City Services Platform (SCSP)
 
+- **Student Name**: Omar Saif Al Jabri  
+- **Student ID**: 17S16350  
+
 The **Smart City Services Platform (SCSP)** is a centralized, web-based application designed to improve access to essential urban services. 
 It provides city residents with real-time service updates, issue reporting, booking for public facilities, and a multilingual user experience. 
 The platform also equips city authorities with tools for service management and data-informed decision-making.
